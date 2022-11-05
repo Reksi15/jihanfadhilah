@@ -1,0 +1,15 @@
+body {
+    min-height: auto;
+}
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #87cefa;
+}
+
+#intern {
+    background-color: #87cefa;
+}
+
+section {
+    padding-top: 5rem;
+}
